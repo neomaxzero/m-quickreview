@@ -2,7 +2,7 @@
 There are so much reviews about hardware, not much enough about software
 
 # Quickreviews
-- [React-ideal-image](https://github.com/neomaxzero/m-quickreview/blob/master/react-ideal-image.md)
+- [React-ideal-image](https://github.com/neomaxzero/m-quickreview/blob/master/react-ideal-image.md) :white_check_mark:
 
 # Nexts
 
@@ -15,3 +15,7 @@ There are so much reviews about hardware, not much enough about software
 - [30-seconds-of-interviews](https://github.com/fejes713/30-seconds-of-interviews)
 - [Prerender-loader](https://github.com/GoogleChromeLabs/prerender-loader)
 - [React-waypoint](https://github.com/brigade/react-waypoint)
+- [Gh-pages](https://github.com/tschaub/gh-pages)
+- [Semantic-release](https://github.com/semantic-release/semantic-release)
+- [React-Styleguidist](https://github.com/styleguidist/react-styleguidist)
+- [Unfetch](https://github.com/developit/unfetch)
