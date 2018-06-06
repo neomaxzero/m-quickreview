@@ -2,7 +2,9 @@
 There are so much reviews about hardware, not much enough about software
 
 # Quickreviews
-- [React-ideal-image](https://github.com/neomaxzero/m-quickreview/blob/master/react-ideal-image.md) :white_check_mark:
+
+- 05/06/2018: [React-ideal-image](https://github.com/neomaxzero/m-quickreview/blob/master/react-ideal-image.md) :white_check_mark:
+- 06/06/2018: [Microbundle](https://github.com/neomaxzero/m-quickreview/blob/master/microbundle.md) :white_check_mark:
 
 # Nexts
 
@@ -19,3 +21,5 @@ There are so much reviews about hardware, not much enough about software
 - [Semantic-release](https://github.com/semantic-release/semantic-release)
 - [React-Styleguidist](https://github.com/styleguidist/react-styleguidist)
 - [Unfetch](https://github.com/developit/unfetch)
+- [Stockroom](https://github.com/developit/stockroom)
+- [Sade](https://github.com/lukeed/sade)
