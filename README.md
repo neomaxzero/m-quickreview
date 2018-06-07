@@ -5,11 +5,10 @@ There are so much reviews about hardware, not much enough about software
 
 - 05/06/2018: [React-ideal-image](https://github.com/neomaxzero/m-quickreview/blob/master/react-ideal-image.md) :white_check_mark:
 - 06/06/2018: [Microbundle](https://github.com/neomaxzero/m-quickreview/blob/master/microbundle.md) :white_check_mark:
+- 07/06/2018: [Observe-rect](https://github.com/neomaxzero/m-quickreview/blob/master/observe-rect.md) :white_check_mark:
 
 # Nexts
 
-- [Microbundle](https://github.com/developit/microbundle)
-- [Observe-rect](https://github.com/reach/observe-rect)
 - [Reach-router](https://reach.tech/router/large-scale)
 - [Proppy-Js](https://proppyjs.com/)
 - [Deno](https://github.com/ry/deno)
