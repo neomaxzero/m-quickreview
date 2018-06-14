@@ -14,6 +14,7 @@ There are so much reviews about hardware, not much enough about software
 - [Reach-router](https://reach.tech/router/large-scale)
 - [Proppy-Js](https://proppyjs.com/)
 - [Deno](https://github.com/ry/deno)
+- [PollyJS](https://netflix.github.io/pollyjs/)
 - [React-typescript-cheatsheet](https://github.com/sw-yx/react-typescript-cheatsheet)
 - [30-seconds-of-interviews](https://github.com/fejes713/30-seconds-of-interviews)
 - [Prerender-loader](https://github.com/GoogleChromeLabs/prerender-loader)
