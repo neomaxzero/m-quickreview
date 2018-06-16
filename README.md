@@ -8,8 +8,8 @@ There are so much reviews about hardware, not much enough about software
 - 07/06/2018: [Observe-rect](https://github.com/neomaxzero/m-quickreview/blob/master/observe-rect.md) :white_check_mark:
 - 08/06/2018: [Image-compressor.js](https://github.com/neomaxzero/m-quickreview/blob/master/image-compressor.js.md) :white_check_mark:
 - 11/06/2018: [JSUI](https://github.com/neomaxzero/m-quickreview/blob/master/JSUI.md) :soon:
-- 14/06/2018: [Sade](https://github.com/lukeed/sade) :white_check_mark:
-- 15/06/2018: [Unfetch](https://github.com/developit/unfetch) :white_check_mark:
+- 14/06/2018: [Sade](https://github.com/neomaxzero/m-quickreview/blob/master/sade.md) :white_check_mark:
+- 15/06/2018: [Unfetch](https://github.com/neomaxzero/m-quickreview/blob/master/unfetch.md) :white_check_mark:
 
 # Nexts
 
