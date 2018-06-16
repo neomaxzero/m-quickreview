@@ -5,7 +5,9 @@
 ## Good
 - Built with rollup.
 - Good script tags.
-- Implemented over XHTTp.
+- Implemented over plain XMLHttpRequest.
+- Useful JSON, text formatter methods.
+- Ultimately simple source code. 
 
 ## Learnt
 - Eslint config in package.json vs eslint config file?
@@ -17,3 +19,6 @@
 
 ## Next
 - [rollup-plugin-buble](https://github.com/rollup/rollup-plugin-buble)
+
+## Overall:
+- Will use on a real project instead of axios. probably :D
