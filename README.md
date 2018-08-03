@@ -10,6 +10,7 @@ There are so much reviews about hardware, not much enough about software
 - 11/06/2018: [JSUI](https://github.com/neomaxzero/m-quickreview/blob/master/JSUI.md) :soon:
 - 14/06/2018: [Sade](https://github.com/neomaxzero/m-quickreview/blob/master/sade.md) :white_check_mark:
 - 15/06/2018: [Unfetch](https://github.com/neomaxzero/m-quickreview/blob/master/unfetch.md) :white_check_mark:
+- 03/08/2018: [The Cost of JS 2018](https://github.com/neomaxzero/m-quickreview/blob/master/the-cost-of-js-2018.md):white_check_mark:
 
 # Nexts
 - [Formik](https://github.com/jaredpalmer/formik)
