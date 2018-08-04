@@ -27,7 +27,8 @@ Three moments
     Problem stated: Loading too much JavaScript into the main thread (via <script>, etc) is the issue. 
 
 ### 📙Action Items 📙
-    💡 Pulling JS into a Web Worker or caching via a Service Worker doesn’t have the same negative Time-to-Interactive impact.
+   
+   💡 Pulling JS into a Web Worker or caching via a Service Worker doesn’t have the same negative Time-to-Interactive impact.
   
 ## 📖Why is Javascript so expensive
  There are a lot of things the browser request to start painting the page.(Not very detailed explanation here)
