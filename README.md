@@ -13,6 +13,7 @@ There are so much reviews about hardware, not much enough about software
 - 03/08/2018: [The Cost of JS 2018](https://github.com/neomaxzero/m-quickreview/blob/master/the-cost-of-js-2018.md) :white_check_mark:
 
 # Nexts
+- [Taskbook](https://github.com/klauscfhq/taskbook)
 - [Formik](https://github.com/jaredpalmer/formik)
 - [Reach-router](https://reach.tech/router/large-scale)
 - [Proppy-Js](https://proppyjs.com/)
