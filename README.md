@@ -14,6 +14,7 @@ There are so much reviews about hardware, not much enough about software
 
 # Nexts
 - [Taskbook](https://github.com/klauscfhq/taskbook)
+- [Docz](https://github.com/pedronauck/docz)
 - [Formik](https://github.com/jaredpalmer/formik)
 - [Reach-router](https://reach.tech/router/large-scale)
 - [Proppy-Js](https://proppyjs.com/)
