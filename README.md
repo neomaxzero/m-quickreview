@@ -5,7 +5,7 @@
   <p align="center">There are so much reviews about hardware, not much enough about software</p>
 </p>
 
-# Quickreviews
+---
 
 - 05/06/2018: [React-ideal-image](https://github.com/neomaxzero/m-quickreview/blob/master/react-ideal-image.md) :white_check_mark:
 - 06/06/2018: [Microbundle](https://github.com/neomaxzero/m-quickreview/blob/master/microbundle.md) :white_check_mark:
