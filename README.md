@@ -1,5 +1,9 @@
-# m-quickreview
-There are so much reviews about hardware, not much enough about software
+<p align="center">
+  <a href="https://z3ro.com.ar">
+    <img height="auto" width="300" src="https://raw.githubusercontent.com/neomaxzero/m-quickreview/master/assets/logo-library.png">
+  </a>
+  <p align="center">There are so much reviews about hardware, not much enough about software</p>
+</p>
 
 # Quickreviews
 
