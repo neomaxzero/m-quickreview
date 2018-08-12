@@ -1,4 +1,4 @@
-# Chapter 02: Modularity Principles
+# [Chapter 02: Modularity Principles](https://github.com/mjavascript/mastering-modular-javascript/blob/master/chapters/ch02.asciidoc)
 
 - Modularity can be the answer to complexity.
 - Something is complex when it becomes hard to grasp or fully understand.
