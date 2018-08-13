@@ -17,6 +17,7 @@
 - 03/08/2018: [The Cost of JS 2018](https://github.com/neomaxzero/m-quickreview/blob/master/the-cost-of-js-2018.md) :white_check_mark:
 - 09/08/2018: [Mastering Modular JS - Chapter 01](https://github.com/neomaxzero/m-quickreview/blob/master/mastering-modular-js/chapter-01.md):white_check_mark:
 - 12/08/2018: [Mastering Modular JS - Chapter 02](https://github.com/neomaxzero/m-quickreview/blob/master/mastering-modular-js/chapter-02.md):white_check_mark:
+- 13/08/2018: [Mastering Modular JS - Chapter 03](https://github.com/neomaxzero/m-quickreview/blob/master/mastering-modular-js/chapter-03.md):white_check_mark:
 
 # Nexts
 - [Taskbook](https://github.com/klauscfhq/taskbook)
