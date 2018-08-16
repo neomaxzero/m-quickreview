@@ -1,4 +1,5 @@
-# Chapter 01 - Module Thinking
+# [Chapter 01 - Module Thinking](https://github.com/mjavascript/mastering-modular-javascript/blob/master/chapters/ch01.asciidoc)
+
 
 Abstractions, that keep complexity hidden away from us.
 
