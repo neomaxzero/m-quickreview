@@ -1,4 +1,4 @@
-# [Shaping Internals](https://github.com/mjavascript/mastering-modular-javascript/blob/master/chapters/ch03.asciidoc)
+# [Chapter 04: Shaping Internals](https://github.com/mjavascript/mastering-modular-javascript/blob/master/chapters/ch03.asciidoc)
 
 ## 4.1 Internal Complexity
 
