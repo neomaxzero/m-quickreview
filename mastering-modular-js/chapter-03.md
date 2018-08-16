@@ -1,4 +1,4 @@
-# [Module Design](https://github.com/mjavascript/mastering-modular-javascript/blob/master/chapters/ch03.asciidoc)
+# [Chapter 03 - Module Design](https://github.com/mjavascript/mastering-modular-javascript/blob/master/chapters/ch03.asciidoc)
 
 - Properly designed module internals help keep our code readable and its intent clear.
 
