@@ -19,6 +19,8 @@
 - 12/08/2018: [Mastering Modular JS - Chapter 02](https://github.com/neomaxzero/m-quickreview/blob/master/mastering-modular-js/chapter-02.md):white_check_mark:
 - 13/08/2018: [Mastering Modular JS - Chapter 03](https://github.com/neomaxzero/m-quickreview/blob/master/mastering-modular-js/chapter-03.md) :white_check_mark:
 - 16/08/2018: [Mastering Modular JS - Chapter 04](https://github.com/neomaxzero/m-quickreview/blob/master/mastering-modular-js/chapter-04.md) :white_check_mark:
+- 02/09/2018: [Mastering Modular JS - Chapter 05](https://github.com/neomaxzero/m-quickreview/blob/master/mastering-modular-js/chapter-05.md) :white_check_mark:
+- 02/09/2018: [Mastering Modular JS - Chapter 06](https://github.com/neomaxzero/m-quickreview/blob/master/mastering-modular-js/chapter-06.md) :white_check_mark:
 
 # Nexts
 - [Taskbook](https://github.com/klauscfhq/taskbook)
