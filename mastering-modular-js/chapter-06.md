@@ -1,6 +1,5 @@
 
-
-# Development Methodology and Philosophy
+# [Chapter 06: Modular Development Methodology and Philosophy](https://github.com/mjavascript/mastering-modular-javascript/blob/master/chapters/ch06.asciidoc)
 
 - Pretending all of our code is going to be open-source results in better configuration and secret management
 
