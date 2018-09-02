@@ -1,5 +1,5 @@
 
-# Modular Patterns and Practices
+# [Chapter 05: Modular Patterns and Practices](https://github.com/mjavascript/mastering-modular-javascript/blob/master/chapters/ch05.asciidoc)
 
 ## 5.1 Leveraging Modern JavaScript
 
